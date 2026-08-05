@@ -1,3 +1,4 @@
 {
-  "server_url": "http://jscloud.my.id:2004"
+  "base_url": "http://trapenden.miunnst.site:2000",
+  "ws_url": "ws:trapenden.miunnst.site:2000"
 }
